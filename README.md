@@ -1,5 +1,3 @@
-# Python-Mini-Projects
-
 <div align="center">
 
 # 🚀 Python Mini Projects
